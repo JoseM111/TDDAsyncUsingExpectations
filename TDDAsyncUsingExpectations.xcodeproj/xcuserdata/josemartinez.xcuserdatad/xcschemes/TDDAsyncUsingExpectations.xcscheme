@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Scheme
+   version = "1.3">
+   <BuildAction>
+      <BuildActionEntries>
+         <BuildActionEntry
+            buildForRunning = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "AB9DB69B2489580F00F6F77A"
+               BuildableName = "TDDAsyncUsingExpectations.app"
+               BlueprintName = "TDDAsyncUsingExpectations"
+               ReferencedContainer = "container:TDDAsyncUsingExpectations.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+      </BuildActionEntries>
+   </BuildAction>
+   <LaunchAction
+      useCustomWorkingDirectory = "NO"
+      buildConfiguration = "Debug"
+      allowLocationSimulation = "YES">
+      <BuildableProductRunnable>
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "AB9DB69B2489580F00F6F77A"
+            BuildableName = "TDDAsyncUsingExpectations.app"
+            BlueprintName = "TDDAsyncUsingExpectations"
+            ReferencedContainer = "container:TDDAsyncUsingExpectations.xcodeproj">
+         </BuildableReference>
+      </BuildableProductRunnable>
+   </LaunchAction>
+</Scheme>
